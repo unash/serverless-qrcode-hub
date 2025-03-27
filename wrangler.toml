@@ -6,7 +6,7 @@ compatibility_date = "2025-03-10"
 binding = "DB"
 database_name = "qrcode_mcpport"
 # 注意：将下面的 id 替换为你自己拷贝的 D1 存储的 id 才能正常使用！
-database_id = "298d2a13-79c6-4825-8105-ffb1b3948c12"
+database_id = "47271497-27a4-40b1-9aab-8d401430dc02"
 
 [triggers]
 crons = ["0 2 */1 * *"]
